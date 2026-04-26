@@ -1,3 +1,3 @@
-# 🫁 Pulmonary Disease Diagnosis using Deep Learning & Explainable AI
+# 🫁 Multimodal Pulmonary Disease Diagnosis using Deep Learning & Explainable AI
 
-Multimodal deep learning system for pulmonary disease diagnosis using respiratory audio and chest X-rays with ensemble learning and explainable AI (XAI).
+A multimodal deep learning system leveraging respiratory audio spectrograms and chest X-ray imaging with ensemble learning and explainable AI (XAI).
